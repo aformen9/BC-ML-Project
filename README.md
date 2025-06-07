@@ -1,7 +1,7 @@
 # Breast Cancer - Machine Learning Project
 Trabajo final materia Ciencia de Datos 2025 UCA - Lic. en Ciencia de Datos
 
-- - - Consigna: 
+- Consigna: 
 
 A partir de un set de datos obtenido del sitio Kaggle.com explore, investigue y entrene modelos de Machine Learning supervisado. 
 Para este trabajo se deberán emplear dos modelos a elegir entre: Regresión Logística, Random Forest o Decision Tree.
