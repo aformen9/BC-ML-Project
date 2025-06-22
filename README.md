@@ -45,5 +45,3 @@ Pare el desarrollo siga los siguientes pasos
  Visualiza los resultados: La visualización de los resultados es crucial para comprender el comportamiento del modelo y comunicar los hallazgos de manera efectiva. Utiliza gráficos, tablas y otras herramientas de visualización para presentar tus resultados.
 
  Genera un informe con los resultados: Elabora un informe que acompañe el análisis y que explique en lenguaje coloquial los hallazgos realizados durante todo el proceso, incorpora los gráficos que hayas realizado y explícalos para hacerlos entendibles para alguien no experto.
-
- Genera un informe con los resultados: Elabora un informe que acompañe el análisis y que explique en lenguaje coloquial los hallazgos realizados durante todo el proceso, incorpora los gráficos que hayas realizado y explícalos para hacerlos entendibles para alguien no experto.
